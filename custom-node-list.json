@@ -2736,7 +2736,7 @@
             ],
             "nodename_pattern": " \\(jov\\)$",
             "install_type": "git-clone",
-            "description": "Procedural & Compositing. Includes a Webcam node."
+            "description": "Compose like Substance Designer. Webcam & Media Streams (in/out) support, Wave/Tick animation, Color Correction, Geometry Manipulation, GLSL Pixel Shader, Polygonal Shape Generator, Remap images gometry and color."
         },
         {
             "author": "Umikaze-job",
